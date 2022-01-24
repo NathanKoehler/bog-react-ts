@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NathanKoehler/bog-react-ts/static/css/main.3909f241.css",
+    "main.js": "/NathanKoehler/bog-react-ts/static/js/main.d5719d32.js",
+    "static/js/787.538b089a.chunk.js": "/NathanKoehler/bog-react-ts/static/js/787.538b089a.chunk.js",
+    "index.html": "/NathanKoehler/bog-react-ts/index.html",
+    "main.3909f241.css.map": "/NathanKoehler/bog-react-ts/static/css/main.3909f241.css.map",
+    "main.d5719d32.js.map": "/NathanKoehler/bog-react-ts/static/js/main.d5719d32.js.map",
+    "787.538b089a.chunk.js.map": "/NathanKoehler/bog-react-ts/static/js/787.538b089a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3909f241.css",
+    "static/js/main.d5719d32.js"
+  ]
+}
