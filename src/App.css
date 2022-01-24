@@ -2,6 +2,28 @@
   text-align: center;
 }
 
+.grid {
+  height: 100%;
+  width: fit-content;
+  -webket-column-count: 10; 
+  -moz-column-count: 10; 
+  column-count: 10;
+  -webkit-user-drag: none;
+  column-gap: 0;
+}
+
+.grid-elem {
+  -webkit-user-drag: none;
+  width: 50px;
+  height: 50px;
+  border: #282c34;
+  border-style: solid;
+}
+
+.grid-elem.active {
+  background-color: #61dafb;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
